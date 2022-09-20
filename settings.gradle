@@ -1,0 +1,4 @@
+rootProject.name = 'gradleproblem'
+
+include 'projectA'
+include 'projectB'
